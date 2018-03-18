@@ -1,0 +1,2 @@
+class ProxiesLimitExceed(Exception):
+    pass
