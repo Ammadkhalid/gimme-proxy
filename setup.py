@@ -3,5 +3,6 @@ setup(
 name = 'gimmeproxy',
 author = 'AmmadKhalid',
 author_email = 'ammadkhalid12@gmail.com',
-packages = find_packages()
+packages = find_packages(),
+description = open('README.md', 'r').read()
 )
